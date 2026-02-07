@@ -80,7 +80,7 @@ This repository is intended as a portfolio project demonstrating skills in Pytho
 
 ## 📁 Repository Structure
 
-Real-Estate-Market-Analysis/
+real-estate-market-analysis/
 │
 ├── data/
 │ ├── raw/ # customers.csv
