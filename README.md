@@ -57,13 +57,13 @@ This repository is intended as a portfolio project demonstrating skills in Pytho
 ## 📊 Key Visualizations
 
 ### Net Revenue
-![Monthly Net Revenue By Year](Real-Estate-Market-Analysis/figures/Monthly_Net_Revenue_by_Year.png)
+![Monthly Net Revenue By Year](real-estate-market-analysis/figures/Monthly_Net_Revenue_by_Year.png)
 
 ### Sales by Building Type and Year
-![C](Real-Estate-Market-Analysis/figures/Sales_by_Building_Type_and_Year.png)
+![C](real-estate-market-analysis/figures/Sales_by_Building_Type_and_Year.png)
 
 ### Customers Age Distribution
-![Location Comparison](Real-Estate-Market-Analysis/figures/Distribution_of_Customers_Age.jpg)
+![Location Comparison](real-estate-market-analysis/figures/Distribution_of_Customers_Age.jpg)
 
 ---
 
@@ -87,7 +87,7 @@ real-estate-market-analysis/
            # properties.csv
 │ └── processed/ # dfcust_cleaned
                  # dfprop_cleaned2
-                 #real-state-data
+                 # real-state-data
 │
 ├── notebooks/ # Merging PROP-CUST.ipynb
                # Preprocessing CUST.ipynb
