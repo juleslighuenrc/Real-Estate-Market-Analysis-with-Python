@@ -63,7 +63,7 @@ This repository is intended as a portfolio project demonstrating skills in Pytho
 ![C](real-estate-market-analysis/figures/Sales_by_Building_Type_and_Year.png)
 
 ### Customers Age Distribution
-![Location Comparison](real-estate-market-analysis/figures/Distribution_of_Customers_Age.jpg)
+![Location Comparison](real-estate-market-analysis/figures/Distribution_of_Costumers_Age.jpg)
 
 ---
 
