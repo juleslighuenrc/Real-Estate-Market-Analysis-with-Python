@@ -3,3 +3,6 @@ numpy
 matplotlib
 seaborn
 jupyter
+mysql-connector-python
+dash
+plotly
